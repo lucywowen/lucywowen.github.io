@@ -324,15 +324,15 @@ h1, h2, h3, h4, h5, h6 {
     border: none;
 }
 .btn.btn-default {
-    margin: 40px auto 0;
+    margin: 500px auto 0;
     background: transparent;
     position: relative;
     color: #fff;
-    font-size: 1em;
+    font-size: 2em;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 400;
     text-align: center;
-    padding: 12px 26px 12px;
+    padding: 40px 60px 40px;
     cursor: pointer;
     border: 2px solid #4cddf3;
     border-radius: 0;
