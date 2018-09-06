@@ -97,9 +97,9 @@ Copyright (c) 2015 Daniel Eden
 .word {
   font-size:2em;
   font-weight:bold;
-  float:left;
+  float:center;
   opacity:0;
-  position:relative;
+  position:center;
   top:20%;
   left:50%;
 }
